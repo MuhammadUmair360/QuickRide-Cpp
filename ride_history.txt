@@ -1,0 +1,54 @@
+User: Moeen
+Pickup: isl
+Drop-off: lhr
+Vehicle: car
+Driver: Leo (Van Driver)
+Distance: 370 km
+Fare: 3700 PKR
+Arrival in: 28 minutes
+--------------------------
+User: Moeen
+Pickup: ISL
+Drop-off: LHR
+Vehicle: CAR
+Driver: Mike (Bike Driver)
+Distance: 12 km
+Fare: 120 PKR
+Arrival in: 15 minutes
+--------------------------
+User: Moeen
+Pickup: isl
+Drop-off: lhr
+Vehicle: car
+Driver: Jack (Car Driver)
+Distance: 100 km
+Fare: 1200 PKR
+Arrival in: 18 minutes
+--------------------------
+User: Moeen
+Pickup: isl
+Drop-off: lhr
+Vehicle: van
+Driver: Leo (Van Driver)
+Distance: 350 km
+Fare: 6500 PKR
+Arrival in: 11 minutes
+--------------------------
+User: Moeen
+Pickup: rfj
+Drop-off: fre
+Vehicle: car
+Driver: Fahad (Car Driver)
+Distance: 83 km
+Fare: 3000 PKR
+Arrival in: 11 minutes
+--------------------------
+User: umair r
+Pickup: H-12
+Drop-off: D-12
+Vehicle: car
+Driver: Fahad (Car Driver)
+Distance: 15 km
+Fare: 375 PKR
+Arrival in: 21 minutes
+--------------------------
